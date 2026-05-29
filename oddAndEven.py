@@ -12,4 +12,4 @@ else:
     if repeated:
         print('Repeated characters:', ' '.join(repeated))
     else:
-        print('No repeated characters found.')
+        print('No repeated characters.')
